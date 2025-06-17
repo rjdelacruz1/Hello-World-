@@ -1,0 +1,5 @@
+1) There are 2 neurons in the hidden layer. There is 1 neuron in the output later. The dimension is [0] for both the hidden and output layer. 
+
+2) h1 =  (x1 * wh1) + (x2 * wh1) + (x1 * wh2) + (x2 * wh2) + bh
+
+3)o(h) = h1 * w0 + b0
